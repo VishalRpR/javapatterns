@@ -16,25 +16,18 @@ public class pattern7 {
 		for (int i = 1; i <=n; i++) {
 			
 			for (int j =1; j <=sp; j++) {
-				System.out.print("\t");
-				
+				System.out.print("\t");	
 			}
 			
 			for (int j =1; j <=st; j++) {
 				System.out.print("*\t");
-				
-			}
+		    }
 			
 			for (int j =1; j <=af; j++) {
-				System.out.print("\t");
-				
+				System.out.print("\t");	
 			}
-			
-		
 			sp++;
 			af--;
-			
-			
 			System.out.println();
 			
 			*/
